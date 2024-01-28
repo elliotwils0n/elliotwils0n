@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### About me
+I'm a Software Engineer, working professionally since 2021.\
+At work I mainly use Java, outside of work I flirt with other languages to keep the passion alive ( ͡° ͜ʖ ͡°).
+
+#### Contact
+- Discord: `elliotwils0n`
